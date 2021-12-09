@@ -30,7 +30,7 @@
 P.S. Если указанные производители отсутствуют, использовать любые два на усмотрение.      
 
 ### Результат прохождения в AllureTestops:
-<img src="media/allure-result-screen.jpg" width="60%">
+<img src="media/allure-result-screen.jpg">
 
 ### Видео прохождения:
-<img src="media/test_video.mp4" width="60%">
+https://user-images.githubusercontent.com/84975668/145480141-e85c1b07-793e-464a-96fc-4c60c9107f34.mp4
